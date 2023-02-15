@@ -1,0 +1,55 @@
+main:
+  - name: About
+    url: /
+    weight: 1
+  - name: Projects
+    url: /projects/
+    weight: 2
+    child:
+      - name: "Capstone"
+        icon: "/assets/images/gen/smote.webp"
+        icon_darkmode: "/assets/images/gen/smote.webp"
+        description: "SMOTE pre-processing on gaming data"
+        url: /projects/project-1/
+      - name: "Project Layout 2"
+        icon: "/assets/images/icons/wireframe-5.svg"
+        icon_darkmode: "/assets/images/gen/airplane_drawing_tutorial.webp"
+        description: "Right side layout"
+        url: /projects/project-2/
+      - name: "Project Layout 3"
+        icon: "/assets/images/icons/wireframe-6.svg"
+        icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
+        description: "Left side layout"
+        url: /projects/project-3/
+  - name: Resume
+    url: /about/
+    weight: 3
+  - name: Contact
+    url: /contact/
+    weight: 4
+  
+
+footer_primary:
+  - name: "Capstone"
+    url: /projects/project-1/
+  - name: "Aviation Social Impact"
+    url: /projects/project-2/
+  - name: "Subreddit Classification"
+    url: /projects/project-3/
+
+
+footer_tertiary:
+  - name: Privacy Policy
+    url: /privacy-policy/
+    weight: 1
+  - name: Terms and Conditions
+    url: /terms-and-conditions/
+    weight: 2
+
+bottom:
+  - name: Privacy Policy
+    url: /privacy-policy/
+    weight: 3
+  - name: Terms and Conditions
+    url: /terms-and-conditions/
+    weight: 4
