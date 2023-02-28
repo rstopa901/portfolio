@@ -3,7 +3,7 @@ layout: basic
 title: "Resume"
 date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
-description: "Please feel free to reach out with any questions about my experience! Full PDF resume at bottom of the page."
+description: "Please feel free to reach out with any questions about my experience!"
 ---
 
 
@@ -13,7 +13,7 @@ description: "Please feel free to reach out with any questions about my experien
 <body>
     <center>
         <iframe src=
-"/assets/images/gen/Robin_A_Stopa_Resume.pdf" 
+"/assets/images/gen/Robin_A_Stopa_resume.pdf" 
                 width="1024" 
                 height="768">
         </iframe>
