@@ -4,6 +4,7 @@ title: "Classifying COD vs. Overwatch Subreddits"
 description: "Classifying reddit posts as Call of Duty: Modern Warfare II subreddit or Overwatch 2 subreddit posts using natural language processing (NLP)"
 date: 2022-12-23
 weight: 2
+client: "Classification of COD and Overwatch 2 subreddit posts using NLP to create insights on the two gaming communities"
 thumbnail: "/assets/images/gen/cod.webp"
 image: "/assets/images/gen/cod.webp"
 gallery:
@@ -17,3 +18,5 @@ Two popular games are Call of Duty: Modern Warfare II (which from here will be a
 Goal: The goal of this project is to classify reddit posts as Call of Duty: Modern Warfare II subreddit or Overwatch 2 subreddit posts using natural language processing (NLP). Then, we will look at features which have high importance in classification to shed light on these two gaming communities. This will be turned into actionable insights for the advertising departments/ agencies of the two game companies.
 
 Success will be evaluated as a logistic regression or random forest model that performs better than a baseline classification model.
+
+<a href="https://github.com/rstopa901/subreddit_classification">github project link</a>

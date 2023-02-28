@@ -4,6 +4,7 @@ title: "Aviation Social Impact"
 description: "Project to design a model for the plane safety regulators that can predict the severity of an aviation accident based on contextual factors and identify the most important factors as possible targets of regulation."
 date: 2023-01-20
 weight: 1
+client: "Created a logistic regression model using NLP for regulators to predict the severity of an aviation accident based on contextual factors and identify important factors as targets of regulation"
 thumbnail: "/assets/images/gen/airplane_drawing_tutorial.webp"
 image: "/assets/images/gen/airplane_drawing_tutorial.webp"
 gallery:

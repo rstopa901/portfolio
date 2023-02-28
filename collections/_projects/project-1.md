@@ -4,6 +4,7 @@ title: "Capstone Project"
 description: "A study of SMOTE pre-processing techniques in small imbalanced data"
 date: 2023-02-09
 weight: 3
+client: "Study of SMOTE pre-processing to solve for target imbalance in small data for regression and classification using video game data"
 thumbnail: "/assets/images/gen/projects/smote.webp"
 image: "/assets/images/gen/projects/smote.webp"
 gallery:
