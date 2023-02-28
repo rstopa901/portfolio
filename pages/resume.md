@@ -6,6 +6,22 @@ permalink: "/about/"
 description: "Please feel free to reach out with any questions about my experience! Full PDF resume at bottom of the page."
 ---
 
+
+
+## Robin Stopa Resume: PDF
+
+<body>
+    <center>
+        <iframe src=
+"/assets/images/gen/Robin_A_Stopa_Resume.pdf" 
+                width="1024" 
+                height="768">
+        </iframe>
+    </center>
+</body>
+
+<br>
+
 # **Skills**
 
 **Machine Learning:** Linear Regression, Logistic Regression, Bagging, Random Forest, ExtraTrees, KNN, Boosting, Ensembling/Stacking, PCA, K-means Clustering/DBSCAN, Neural Nets/Deep Learning, NLP, A/B testing, naive bayes
@@ -104,16 +120,3 @@ _Thesis: Logistic Regression Model to Determine the Probability of Winning a Gam
 
 <br>
 
-
-
-## Robin Stopa Resume: PDF
-
-<body>
-    <center>
-        <iframe src=
-"/assets/images/gen/Robin_A_Stopa_Resume.pdf" 
-                width="1024" 
-                height="768">
-        </iframe>
-    </center>
-</body>
