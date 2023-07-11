@@ -9,6 +9,7 @@ thumbnail: "/assets/images/gen/cod.webp"
 image: "/assets/images/gen/cod.webp"
 gallery:
   - image: "/assets/images/gen/cod.webp"
+gallery_limit: 2
 ---
 
 ### Background

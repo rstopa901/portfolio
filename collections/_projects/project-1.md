@@ -1,19 +1,20 @@
 ---
 layout: project # alternative layouts: project, project-left, project-right, project-top
-title: "Capstone Project"
+title: "SMOTE techniques on small data"
 description: "A study of SMOTE pre-processing techniques in small imbalanced data"
 date: 2023-02-09
 weight: 3
 client: "Study of SMOTE pre-processing to solve for target imbalance in small data for regression and classification using video game data"
 thumbnail: "/assets/images/gen/projects/smote.webp"
-image: "/assets/images/gen/projects/smote.webp"
+image: "/assets/images/gen/smote.png"
 gallery:
-  - image: "/assets/images/gen/projects/smote.webp"
+  - image: "/assets/images/gen/smote.png"
+gallery_limit: 2
 ---
 
 ### Overview
 
-For my capstone, I studied the effect of SMOTE pre-processing to solve for target imbalance in small data for both regression and classification. 
+I studied the effect of SMOTE pre-processing to solve for target imbalance in small data for both regression and classification. 
 
 For regression, I created a linear regression model on SMOGN pre-processed data to predict the incidence of cheating/hacking in games based on anti-cheat software and game descriptions (NLP). 
 

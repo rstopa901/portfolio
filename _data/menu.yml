@@ -6,19 +6,19 @@ main:
     url: /projects/
     weight: 2
     child:
-      - name: "Capstone"
-        icon: "/assets/images/gen/smote.webp"
-        icon_darkmode: "/assets/images/gen/smote.webp"
+      - name: "SMOTE techniques on small data"
+        icon: "/assets/images/gen/projects/smote.webp"
+        icon_darkmode: "/assets/images/gen/projects/smote.webp"
         description: "SMOTE pre-processing on gaming data"
         url: /projects/project-1/
-      - name: "Project Layout 2"
-        icon: "/assets/images/icons/wireframe-5.svg"
+      - name: "Aviation Social Impact"
+        icon: "/assets/images/gen/airplane_drawing_tutorial.webp"
         icon_darkmode: "/assets/images/gen/airplane_drawing_tutorial.webp"
         description: "Right side layout"
         url: /projects/project-2/
-      - name: "Project Layout 3"
-        icon: "/assets/images/icons/wireframe-6.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
+      - name: "Classification of Subreddits"
+        icon: "/assets/images/gen/cod.webp"
+        icon_darkmode: "/assets/images/gen/cod.webp"
         description: "Left side layout"
         url: /projects/project-3/
   - name: Resume
